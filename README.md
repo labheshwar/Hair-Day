@@ -6,4 +6,6 @@ Hair Day is a home page website for a hair salon. It is a single page website wi
 
 ---
 
-It is a graded assignemnt in the 4th module of Meta Frontend Professional Certificate program named HTML/CSS in depth. This was the first peer reviewed assignment in the program.
+It is a graded assignemnt in the 4th module of Meta Frontend Professional Certificate program named HTML/CSS in depth. This was the first peer reviewed assignment in the program. 
+
+### Preview Site at: [Hair Day](https://hairdaybylabheshwar.netlify.app/)
